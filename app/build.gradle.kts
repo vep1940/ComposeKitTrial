@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.compose-kit-trial"
+    namespace = "com.vep1940.composekittrial"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.compose-kit-trial"
+        applicationId = "com.vep1940.composekittrial"
         minSdk = 26
         targetSdk = 33
         versionCode = 1
