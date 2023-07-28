@@ -1,4 +1,4 @@
-package com.example.compose-kit-trial
+package com.vep1940.composekittrial
 
 import org.junit.Test
 

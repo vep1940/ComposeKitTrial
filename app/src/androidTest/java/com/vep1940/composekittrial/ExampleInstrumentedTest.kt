@@ -1,4 +1,4 @@
-package com.example.compose-kit-trial
+package com.vep1940.composekittrial
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
