@@ -1,0 +1,3 @@
+[submodule "compose-kit"]
+	path = compose-kit
+	url = https://github.com/vep1940/compose-kit.git

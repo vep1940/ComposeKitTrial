@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposeKitTrial"
 include(":app")
- 
+include(":compose-kit")
